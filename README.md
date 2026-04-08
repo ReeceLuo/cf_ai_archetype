@@ -2,8 +2,10 @@
 ---
 The shows we love most are the ones with characters we resonate with. Archetype helps you find new film and TV titles across different genres based on personality traits — even your own!
 
-### Live app: https://archetype-8mt.pages.dev/
-### Important:
+**Live app**: https://archetype-8mt.pages.dev/
+
+**Important:** For CloudFlare hiring managers - the password is the **email** that I applied to CF with! 
+FYI: Archetype is run on my personal billing, but please feel free to enjoy its features :)
 
 ## Features
 ---
