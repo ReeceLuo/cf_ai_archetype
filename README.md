@@ -1,6 +1,6 @@
 # Archetype
 ---
-The shows we love most are the ones with characters we resonate with. Archetype helps you find new film and TV titles across different genres based on personality traits — even your own!
+The shows we love are the ones with characters we resonate with most. Archetype helps you find new film and TV titles across different genres based on **personality traits** — even your own!
 
 **Live app**: https://archetype-8mt.pages.dev/
 
