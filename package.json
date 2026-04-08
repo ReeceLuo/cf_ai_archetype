@@ -1,0 +1,16 @@
+{
+  "name": "archetype",
+  "private": true,
+  "workspaces": [
+    "worker",
+    "apps/web"
+  ],
+  "scripts": {
+    "dev": "npm run dev -w worker",
+    "dev:web": "npm run dev -w apps/web",
+    "deploy": "npm run deploy -w worker && npm run deploy -w apps/web",
+    "cf:typegen": "npm run cf:typegen -w worker",
+    "build:catalog": "node scripts/build-catalog.mjs",
+    "refresh:posters": "node scripts/refresh-tmdb-posters.mjs"
+  }
+}

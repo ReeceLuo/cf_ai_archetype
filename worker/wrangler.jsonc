@@ -1,0 +1,44 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "archetype",
+	"main": "src/index.ts",
+	"compatibility_date": "2025-04-01",
+	"observability": {
+		"enabled": true
+	},
+	"ai": {
+		"binding": "AI",
+		"remote": true
+	},
+	"vectorize": [
+		{
+			"binding": "VECTORIZE",
+			"index_name": "archetype-characters",
+			"remote": true
+		}
+	],
+	"workflows": [
+		{
+			"name": "archetype-recommend",
+			"binding": "ARCHETYPE_WORKFLOW",
+			"class_name": "ArchetypeWorkflow"
+		}
+	],
+	"durable_objects": {
+		"bindings": [
+			{
+				"name": "SESSION",
+				"class_name": "SessionDO"
+			}
+		]
+	},
+	"migrations": [
+		{
+			"tag": "v1",
+			"new_sqlite_classes": ["SessionDO"]
+		}
+	],
+	"vars": {
+		"ENVIRONMENT": "development"
+	}
+}

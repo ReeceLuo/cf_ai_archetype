@@ -1,0 +1,17 @@
+{
+  "name": "archetype-worker",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "dev:local": "wrangler dev --local",
+    "dev:remote": "wrangler dev --remote",
+    "deploy": "wrangler deploy",
+    "cf:typegen": "wrangler types",
+    "cf:vectorize:create": "wrangler vectorize create archetype-characters --dimensions=1024 --metric=cosine",
+    "seed:local": "curl -sS -X POST \"http://127.0.0.1:8787/api/seed\" -H \"Authorization: Bearer archetype-local-dev-seed\" -H \"Content-Type: application/json\""
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "wrangler": "^4.16.0"
+  }
+}

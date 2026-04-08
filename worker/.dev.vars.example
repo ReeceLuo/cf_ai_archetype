@@ -1,0 +1,6 @@
+# Copy this file to .dev.vars in the same folder (worker/.dev.vars).
+# Wrangler loads .dev.vars automatically for `wrangler dev` — restart dev after creating it.
+#
+#   cp .dev.vars.example .dev.vars
+#
+SEED_SECRET=archetype-local-dev-seed

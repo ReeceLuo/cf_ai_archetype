@@ -1,0 +1,1712 @@
+[
+  {
+    "characterName": "Walter White",
+    "workTitle": "Breaking Bad",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Jesse Pinkman",
+    "workTitle": "Breaking Bad",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Hank Schrader",
+    "workTitle": "Breaking Bad",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Skyler White",
+    "workTitle": "Breaking Bad",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Jimmy McGill",
+    "workTitle": "Better Call Saul",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Mike Ehrmantraut",
+    "workTitle": "Better Call Saul",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Gus Fring",
+    "workTitle": "Better Call Saul",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Tony Soprano",
+    "workTitle": "The Sopranos",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Carmela Soprano",
+    "workTitle": "The Sopranos",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Christopher Moltisanti",
+    "workTitle": "The Sopranos",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Michael Corleone",
+    "workTitle": "The Godfather",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Vito Corleone",
+    "workTitle": "The Godfather",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Tom Hagen",
+    "workTitle": "The Godfather",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Don Draper",
+    "workTitle": "Mad Men",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Peggy Olson",
+    "workTitle": "Mad Men",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Roger Sterling",
+    "workTitle": "Mad Men",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Betty Draper",
+    "workTitle": "Mad Men",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Joan Holloway",
+    "workTitle": "Mad Men",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Dexter Morgan",
+    "workTitle": "Dexter",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Debra Morgan",
+    "workTitle": "Dexter",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Frank Underwood",
+    "workTitle": "House of Cards",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Claire Underwood",
+    "workTitle": "House of Cards",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Gregory House",
+    "workTitle": "House",
+    "workType": "tv"
+  },
+  {
+    "characterName": "James Wilson",
+    "workTitle": "House",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Omar Little",
+    "workTitle": "The Wire",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Jimmy McNulty",
+    "workTitle": "The Wire",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Stringer Bell",
+    "workTitle": "The Wire",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Avon Barksdale",
+    "workTitle": "The Wire",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Tommy Shelby",
+    "workTitle": "Peaky Blinders",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Arthur Shelby",
+    "workTitle": "Peaky Blinders",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Polly Gray",
+    "workTitle": "Peaky Blinders",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Frank Gallagher",
+    "workTitle": "Shameless",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Fiona Gallagher",
+    "workTitle": "Shameless",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Offred",
+    "workTitle": "The Handmaid's Tale",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Aunt Lydia",
+    "workTitle": "The Handmaid's Tale",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Nate Fisher",
+    "workTitle": "Six Feet Under",
+    "workType": "tv"
+  },
+  {
+    "characterName": "David Fisher",
+    "workTitle": "Six Feet Under",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Jax Teller",
+    "workTitle": "Sons of Anarchy",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Clay Morrow",
+    "workTitle": "Sons of Anarchy",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Nucky Thompson",
+    "workTitle": "Boardwalk Empire",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Al Capone",
+    "workTitle": "Boardwalk Empire",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Vic Mackey",
+    "workTitle": "The Shield",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Tony Montana",
+    "workTitle": "Scarface",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Frank Lucas",
+    "workTitle": "American Gangster",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Jordan Belfort",
+    "workTitle": "The Wolf of Wall Street",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Patrick Bateman",
+    "workTitle": "American Psycho",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Amy Dunne",
+    "workTitle": "Gone Girl",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Nick Dunne",
+    "workTitle": "Gone Girl",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Hannibal Lecter",
+    "workTitle": "The Silence of the Lambs",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Clarice Starling",
+    "workTitle": "The Silence of the Lambs",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Daenerys Targaryen",
+    "workTitle": "Game of Thrones",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Jon Snow",
+    "workTitle": "Game of Thrones",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Tyrion Lannister",
+    "workTitle": "Game of Thrones",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Cersei Lannister",
+    "workTitle": "Game of Thrones",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Jaime Lannister",
+    "workTitle": "Game of Thrones",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Ned Stark",
+    "workTitle": "Game of Thrones",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Arya Stark",
+    "workTitle": "Game of Thrones",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Sansa Stark",
+    "workTitle": "Game of Thrones",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Petyr Baelish",
+    "workTitle": "Game of Thrones",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Varys",
+    "workTitle": "Game of Thrones",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Frodo Baggins",
+    "workTitle": "The Lord of the Rings: The Fellowship of the Ring",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Gandalf",
+    "workTitle": "The Lord of the Rings: The Fellowship of the Ring",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Aragorn",
+    "workTitle": "The Lord of the Rings: The Fellowship of the Ring",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Gollum",
+    "workTitle": "The Lord of the Rings: The Two Towers",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Saruman",
+    "workTitle": "The Lord of the Rings: The Fellowship of the Ring",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Geralt of Rivia",
+    "workTitle": "The Witcher",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Yennefer",
+    "workTitle": "The Witcher",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Ciri",
+    "workTitle": "The Witcher",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Paul Atreides",
+    "workTitle": "Dune",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Lady Jessica",
+    "workTitle": "Dune",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Baron Harkonnen",
+    "workTitle": "Dune",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Feyd-Rautha",
+    "workTitle": "Dune: Part Two",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Buffy Summers",
+    "workTitle": "Buffy the Vampire Slayer",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Willow Rosenberg",
+    "workTitle": "Buffy the Vampire Slayer",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Spike",
+    "workTitle": "Buffy the Vampire Slayer",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Rand al'Thor",
+    "workTitle": "The Wheel of Time",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Moiraine Damodred",
+    "workTitle": "The Wheel of Time",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Kaz Brekker",
+    "workTitle": "Shadow and Bone",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Inej Ghafa",
+    "workTitle": "Shadow and Bone",
+    "workType": "tv"
+  },
+  {
+    "characterName": "The Darkling",
+    "workTitle": "Shadow and Bone",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Lucifer Morningstar",
+    "workTitle": "Lucifer",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Jack Sparrow",
+    "workTitle": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Hector Barbossa",
+    "workTitle": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Ellen Ripley",
+    "workTitle": "Alien",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Walter Bishop",
+    "workTitle": "Fringe",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Olivia Dunham",
+    "workTitle": "Fringe",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Fox Mulder",
+    "workTitle": "The X-Files",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Dana Scully",
+    "workTitle": "The X-Files",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Malcolm Reynolds",
+    "workTitle": "Firefly",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Jayne Cobb",
+    "workTitle": "Firefly",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Zoe Washburne",
+    "workTitle": "Firefly",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Jean-Luc Picard",
+    "workTitle": "Star Trek: The Next Generation",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Spock",
+    "workTitle": "Star Trek",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Data",
+    "workTitle": "Star Trek: The Next Generation",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Kathryn Janeway",
+    "workTitle": "Star Trek: Voyager",
+    "workType": "tv"
+  },
+  {
+    "characterName": "James T. Kirk",
+    "workTitle": "Star Trek",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Rick Sanchez",
+    "workTitle": "Rick and Morty",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Morty Smith",
+    "workTitle": "Rick and Morty",
+    "workType": "tv"
+  },
+  {
+    "characterName": "The Doctor",
+    "workTitle": "Doctor Who",
+    "workType": "tv"
+  },
+  {
+    "characterName": "The Master",
+    "workTitle": "Doctor Who",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Gaius Baltar",
+    "workTitle": "Battlestar Galactica",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Kara Thrace",
+    "workTitle": "Battlestar Galactica",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Number Six",
+    "workTitle": "Battlestar Galactica",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Roy Batty",
+    "workTitle": "Blade Runner",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Rick Deckard",
+    "workTitle": "Blade Runner",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Neo",
+    "workTitle": "The Matrix",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Agent Smith",
+    "workTitle": "The Matrix",
+    "workType": "movie"
+  },
+  {
+    "characterName": "The Mandalorian",
+    "workTitle": "The Mandalorian",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Darth Vader",
+    "workTitle": "Star Wars: Episode V - The Empire Strikes Back",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Han Solo",
+    "workTitle": "Star Wars: Episode IV - A New Hope",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Princess Leia",
+    "workTitle": "Star Wars: Episode IV - A New Hope",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Luke Skywalker",
+    "workTitle": "Star Wars: Episode IV - A New Hope",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Theodore Twombly",
+    "workTitle": "Her",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Jason Bourne",
+    "workTitle": "The Bourne Identity",
+    "workType": "movie"
+  },
+  {
+    "characterName": "James Bond",
+    "workTitle": "Casino Royale",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Ethan Hunt",
+    "workTitle": "Mission: Impossible",
+    "workType": "movie"
+  },
+  {
+    "characterName": "John Wick",
+    "workTitle": "John Wick",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Jack Bauer",
+    "workTitle": "24",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Sydney Bristow",
+    "workTitle": "Alias",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Villanelle",
+    "workTitle": "Killing Eve",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Eve Polastri",
+    "workTitle": "Killing Eve",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Lisbeth Salander",
+    "workTitle": "The Girl with the Dragon Tattoo",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Raymond Reddington",
+    "workTitle": "The Blacklist",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Carrie Mathison",
+    "workTitle": "Homeland",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Nicholas Brody",
+    "workTitle": "Homeland",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Elizabeth Jennings",
+    "workTitle": "The Americans",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Philip Jennings",
+    "workTitle": "The Americans",
+    "workType": "tv"
+  },
+  {
+    "characterName": "John Luther",
+    "workTitle": "Luther",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Anton Chigurh",
+    "workTitle": "No Country for Old Men",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Llewelyn Moss",
+    "workTitle": "No Country for Old Men",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Travis Bickle",
+    "workTitle": "Taxi Driver",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Leon",
+    "workTitle": "Leon: The Professional",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Frank Castle",
+    "workTitle": "The Punisher",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Jack Torrance",
+    "workTitle": "The Shining",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Annie Wilkes",
+    "workTitle": "Misery",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Carrie White",
+    "workTitle": "Carrie",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Eleven",
+    "workTitle": "Stranger Things",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Jim Hopper",
+    "workTitle": "Stranger Things",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Joyce Byers",
+    "workTitle": "Stranger Things",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Billy Hargrove",
+    "workTitle": "Stranger Things",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Rick Grimes",
+    "workTitle": "The Walking Dead",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Negan",
+    "workTitle": "The Walking Dead",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Daryl Dixon",
+    "workTitle": "The Walking Dead",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Carol Peletier",
+    "workTitle": "The Walking Dead",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Beverly Marsh",
+    "workTitle": "It",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Sherlock Holmes",
+    "workTitle": "Sherlock",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Dr. John Watson",
+    "workTitle": "Sherlock",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Hercule Poirot",
+    "workTitle": "Murder on the Orient Express",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Rust Cohle",
+    "workTitle": "True Detective",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Marty Hart",
+    "workTitle": "True Detective",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Sarah Lund",
+    "workTitle": "The Killing",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Veronica Mars",
+    "workTitle": "Veronica Mars",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Patrick Jane",
+    "workTitle": "The Mentalist",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Adrian Monk",
+    "workTitle": "Monk",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Benoit Blanc",
+    "workTitle": "Knives Out",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Dale Cooper",
+    "workTitle": "Twin Peaks",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Lorne Malvo",
+    "workTitle": "Fargo",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Lou Solverson",
+    "workTitle": "Fargo",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Michael Scott",
+    "workTitle": "The Office",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Dwight Schrute",
+    "workTitle": "The Office",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Jim Halpert",
+    "workTitle": "The Office",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Pam Beesly",
+    "workTitle": "The Office",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Leslie Knope",
+    "workTitle": "Parks and Recreation",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Ron Swanson",
+    "workTitle": "Parks and Recreation",
+    "workType": "tv"
+  },
+  {
+    "characterName": "April Ludgate",
+    "workTitle": "Parks and Recreation",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Tom Haverford",
+    "workTitle": "Parks and Recreation",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Larry David",
+    "workTitle": "Curb Your Enthusiasm",
+    "workType": "tv"
+  },
+  {
+    "characterName": "George Costanza",
+    "workTitle": "Seinfeld",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Jerry Seinfeld",
+    "workTitle": "Seinfeld",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Elaine Benes",
+    "workTitle": "Seinfeld",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Cosmo Kramer",
+    "workTitle": "Seinfeld",
+    "workType": "tv"
+  },
+  {
+    "characterName": "BoJack Horseman",
+    "workTitle": "BoJack Horseman",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Diane Nguyen",
+    "workTitle": "BoJack Horseman",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Fleabag",
+    "workTitle": "Fleabag",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Ted Lasso",
+    "workTitle": "Ted Lasso",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Roy Kent",
+    "workTitle": "Ted Lasso",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Rebecca Welton",
+    "workTitle": "Ted Lasso",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Jamie Tartt",
+    "workTitle": "Ted Lasso",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Malcolm Tucker",
+    "workTitle": "The Thick of It",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Selina Meyer",
+    "workTitle": "Veep",
+    "workType": "tv"
+  },
+  {
+    "characterName": "David Brent",
+    "workTitle": "The Office",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Edmund Blackadder",
+    "workTitle": "Blackadder Goes Forth",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Basil Fawlty",
+    "workTitle": "Fawlty Towers",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Homer Simpson",
+    "workTitle": "The Simpsons",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Bart Simpson",
+    "workTitle": "The Simpsons",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Lisa Simpson",
+    "workTitle": "The Simpsons",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Marge Simpson",
+    "workTitle": "The Simpsons",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Stewie Griffin",
+    "workTitle": "Family Guy",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Peter Griffin",
+    "workTitle": "Family Guy",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Eric Cartman",
+    "workTitle": "South Park",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Randy Marsh",
+    "workTitle": "South Park",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Hank Hill",
+    "workTitle": "King of the Hill",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Bob Belcher",
+    "workTitle": "Bob's Burgers",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Linda Belcher",
+    "workTitle": "Bob's Burgers",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Aang",
+    "workTitle": "Avatar: The Last Airbender",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Zuko",
+    "workTitle": "Avatar: The Last Airbender",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Azula",
+    "workTitle": "Avatar: The Last Airbender",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Toph Beifong",
+    "workTitle": "Avatar: The Last Airbender",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Korra",
+    "workTitle": "The Legend of Korra",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Dipper Pines",
+    "workTitle": "Gravity Falls",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Mabel Pines",
+    "workTitle": "Gravity Falls",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Sterling Archer",
+    "workTitle": "Archer",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Lana Kane",
+    "workTitle": "Archer",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Malory Archer",
+    "workTitle": "Archer",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Simba",
+    "workTitle": "The Lion King",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Scar",
+    "workTitle": "The Lion King",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Elsa",
+    "workTitle": "Frozen",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Woody",
+    "workTitle": "Toy Story",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Buzz Lightyear",
+    "workTitle": "Toy Story",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Thomas Cromwell",
+    "workTitle": "Wolf Hall",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Henry VIII",
+    "workTitle": "Wolf Hall",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Anne Boleyn",
+    "workTitle": "Wolf Hall",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Mark Antony",
+    "workTitle": "Rome",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Julius Caesar",
+    "workTitle": "Rome",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Lucius Vorenus",
+    "workTitle": "Rome",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Titus Pullo",
+    "workTitle": "Rome",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Queen Elizabeth II",
+    "workTitle": "The Crown",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Margaret Thatcher",
+    "workTitle": "The Crown",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Prince Charles",
+    "workTitle": "The Crown",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Princess Diana",
+    "workTitle": "The Crown",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Napoleon Bonaparte",
+    "workTitle": "Napoleon",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Maximus",
+    "workTitle": "Gladiator",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Commodus",
+    "workTitle": "Gladiator",
+    "workType": "movie"
+  },
+  {
+    "characterName": "William Wallace",
+    "workTitle": "Braveheart",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Alexander Hamilton",
+    "workTitle": "Hamilton",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Aaron Burr",
+    "workTitle": "Hamilton",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Elizabeth Bennet",
+    "workTitle": "Pride & Prejudice",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Mr. Darcy",
+    "workTitle": "Pride & Prejudice",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Emma Woodhouse",
+    "workTitle": "Emma",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Anne Elliot",
+    "workTitle": "Persuasion",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Jamie Fraser",
+    "workTitle": "Outlander",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Claire Fraser",
+    "workTitle": "Outlander",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Anthony Bridgerton",
+    "workTitle": "Bridgerton",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Daphne Bridgerton",
+    "workTitle": "Bridgerton",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Carrie Bradshaw",
+    "workTitle": "Sex and the City",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Samantha Jones",
+    "workTitle": "Sex and the City",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Rocky Balboa",
+    "workTitle": "Rocky",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Ivan Drago",
+    "workTitle": "Rocky IV",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Coach Eric Taylor",
+    "workTitle": "Friday Night Lights",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Tim Riggins",
+    "workTitle": "Friday Night Lights",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Billy Beane",
+    "workTitle": "Moneyball",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Johnny Lawrence",
+    "workTitle": "Cobra Kai",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Daniel LaRusso",
+    "workTitle": "Cobra Kai",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Rudy Ruettiger",
+    "workTitle": "Rudy",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Hannah Horvath",
+    "workTitle": "Girls",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Jessa Johansson",
+    "workTitle": "Girls",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Shoshanna Shapiro",
+    "workTitle": "Girls",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Nora Seed",
+    "workTitle": "The Midnight Library",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Walter Mitty",
+    "workTitle": "The Secret Life of Walter Mitty",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Charles Foster Kane",
+    "workTitle": "Citizen Kane",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Jay Gatsby",
+    "workTitle": "The Great Gatsby",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Atticus Finch",
+    "workTitle": "To Kill a Mockingbird",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Randle McMurphy",
+    "workTitle": "One Flew Over the Cuckoo's Nest",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Nurse Ratched",
+    "workTitle": "One Flew Over the Cuckoo's Nest",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Alex DeLarge",
+    "workTitle": "A Clockwork Orange",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Benjamin Braddock",
+    "workTitle": "The Graduate",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Mark Zuckerberg",
+    "workTitle": "The Social Network",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Eduardo Saverin",
+    "workTitle": "The Social Network",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Daniel Plainview",
+    "workTitle": "There Will Be Blood",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Eli Sunday",
+    "workTitle": "There Will Be Blood",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Will Hunting",
+    "workTitle": "Good Will Hunting",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Sean Maguire",
+    "workTitle": "Good Will Hunting",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Joker",
+    "workTitle": "Joker",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Killmonger",
+    "workTitle": "Black Panther",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Thanos",
+    "workTitle": "Avengers: Infinity War",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Tony Stark",
+    "workTitle": "Iron Man",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Steve Rogers",
+    "workTitle": "Captain America: The First Avenger",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Wanda Maximoff",
+    "workTitle": "WandaVision",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Loki",
+    "workTitle": "Loki",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Kimmy Schmidt",
+    "workTitle": "Unbreakable Kimmy Schmidt",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Titus Andromedon",
+    "workTitle": "Unbreakable Kimmy Schmidt",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Ruth Wilder",
+    "workTitle": "GLOW",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Debbie Eagan",
+    "workTitle": "GLOW",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Kendall Roy",
+    "workTitle": "Succession",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Logan Roy",
+    "workTitle": "Succession",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Shiv Roy",
+    "workTitle": "Succession",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Roman Roy",
+    "workTitle": "Succession",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Tom Wambsgans",
+    "workTitle": "Succession",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Gerri Kellman",
+    "workTitle": "Succession",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Nate Archibald",
+    "workTitle": "Gossip Girl",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Chuck Bass",
+    "workTitle": "Gossip Girl",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Blair Waldorf",
+    "workTitle": "Gossip Girl",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Serena van der Woodsen",
+    "workTitle": "Gossip Girl",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Elliot Alderson",
+    "workTitle": "Mr. Robot",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Whiterose",
+    "workTitle": "Mr. Robot",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Phillip Price",
+    "workTitle": "Mr. Robot",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Ofglen",
+    "workTitle": "The Handmaid's Tale",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Beth Dutton",
+    "workTitle": "Yellowstone",
+    "workType": "tv"
+  },
+  {
+    "characterName": "John Dutton",
+    "workTitle": "Yellowstone",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Rip Wheeler",
+    "workTitle": "Yellowstone",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Kayce Dutton",
+    "workTitle": "Yellowstone",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Ramsay Bolton",
+    "workTitle": "Game of Thrones",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Stannis Baratheon",
+    "workTitle": "Game of Thrones",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Tywin Lannister",
+    "workTitle": "Game of Thrones",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Theon Greyjoy",
+    "workTitle": "Game of Thrones",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Boromir",
+    "workTitle": "The Lord of the Rings: The Fellowship of the Ring",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Voldemort",
+    "workTitle": "Harry Potter and the Goblet of Fire",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Severus Snape",
+    "workTitle": "Harry Potter and the Sorcerer's Stone",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Draco Malfoy",
+    "workTitle": "Harry Potter and the Chamber of Secrets",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Rumplestiltskin",
+    "workTitle": "Once Upon a Time",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Regina Mills",
+    "workTitle": "Once Upon a Time",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Jadis the White Witch",
+    "workTitle": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Alina Starkov",
+    "workTitle": "Shadow and Bone",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Sylar",
+    "workTitle": "Heroes",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Peter Petrelli",
+    "workTitle": "Heroes",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Michael Myers",
+    "workTitle": "Halloween",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Laurie Strode",
+    "workTitle": "Halloween",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Freddy Krueger",
+    "workTitle": "A Nightmare on Elm Street",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Jason Voorhees",
+    "workTitle": "Friday the 13th",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Louis Creed",
+    "workTitle": "Pet Sematary",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Eleanor Vance",
+    "workTitle": "The Haunting of Hill House",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Shirley Crain",
+    "workTitle": "The Haunting of Hill House",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Hugh Crain",
+    "workTitle": "The Haunting of Hill House",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Pennywise",
+    "workTitle": "It",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Dr. Brenner",
+    "workTitle": "Stranger Things",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Nurse Ratched",
+    "workTitle": "Ratched",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Clarice Starling",
+    "workTitle": "Clarice",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Elinor Dashwood",
+    "workTitle": "Sense and Sensibility",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Marianne Dashwood",
+    "workTitle": "Sense and Sensibility",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Noah Calhoun",
+    "workTitle": "The Notebook",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Allie Hamilton",
+    "workTitle": "The Notebook",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Edward Cullen",
+    "workTitle": "Twilight",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Bella Swan",
+    "workTitle": "Twilight",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Ted Mosby",
+    "workTitle": "How I Met Your Mother",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Robin Scherbatsky",
+    "workTitle": "How I Met Your Mother",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Barney Stinson",
+    "workTitle": "How I Met Your Mother",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Ross Geller",
+    "workTitle": "Friends",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Rachel Green",
+    "workTitle": "Friends",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Lorelai Gilmore",
+    "workTitle": "Gilmore Girls",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Luke Danes",
+    "workTitle": "Gilmore Girls",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Augustus Waters",
+    "workTitle": "The Fault in Our Stars",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Queen Victoria",
+    "workTitle": "Victoria",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Prince Albert",
+    "workTitle": "Victoria",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Abraham Lincoln",
+    "workTitle": "Lincoln",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Jimmy Chitwood",
+    "workTitle": "Hoosiers",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Norman Dale",
+    "workTitle": "Hoosiers",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Jerry Maguire",
+    "workTitle": "Jerry Maguire",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Rod Tidwell",
+    "workTitle": "Jerry Maguire",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Happy Gilmore",
+    "workTitle": "Happy Gilmore",
+    "workType": "movie"
+  },
+  {
+    "characterName": "Kenny Powers",
+    "workTitle": "Eastbound & Down",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Spencer James",
+    "workTitle": "All American",
+    "workType": "tv"
+  },
+  {
+    "characterName": "Nate Haley",
+    "workTitle": "One Tree Hill",
+    "workType": "tv"
+  }
+]
