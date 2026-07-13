@@ -4,9 +4,6 @@ The shows we love are the ones with characters we resonate with most. Archetype 
 
 **Live app**: https://archetype-8mt.pages.dev/
 
-**IMPORTANT:** For CloudFlare hiring managers - the password is the **email** that I applied to CF with! 
-FYI: Archetype is run on my personal billing, though please feel free to enjoy its features :)
-
 ## Features
 ---
 **Cross-genre character mapping:** Ask what a character you love would look like in a completely different genre. Archetype finds characters from other titles who share the same drives, flaws, and character arcs.
